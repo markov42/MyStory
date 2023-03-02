@@ -36,9 +36,6 @@ Here's a walkthrough of implemented user stories:
  
 GIF created with imgur 
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
